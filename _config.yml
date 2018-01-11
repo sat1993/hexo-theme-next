@@ -353,7 +353,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 5fd3ad5a51a3cb8cb3e4b7bb7e718eb9
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -395,7 +395,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMzEzMS85Njkw
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
